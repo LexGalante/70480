@@ -1,6 +1,7 @@
 
 # 70480
 Estudos para o exame 70480
+
 ## Implementar estruturas de documentos e objetos
 
  - [HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp) - Elementos para facilitar a leitura de estrutura do documento no browser
@@ -20,3 +21,23 @@ Estudos para o exame 70480
  - [HTML TAG - audio](https://www.w3schools.com/html/html5_audio.asp) - componente para uso de vídeos no HTML5, aceita apenas formatos MP3, OGG, WAV
  - [HTML TAG - svg](https://www.w3schools.com/html/html5_svg.asp) - xml para construção de elementos 2D
  - [HTML API - geolocation](https://www.w3schools.com/html/html5_geolocation.asp) - api para obter localização do usuário 
+  - [CSS selectors](https://www.w3schools.com/css/css_selectors.asp) - seletores do css3
+ - [CSS flex-box](https://origamid.com/projetos/flexbox-guia-completo/) - api flex-box css
+ - [CSS backgrounds](https://www.w3schools.com/css/css_background.asp)- estilação de fundos no css3
+ - [CSS border](https://www.w3schools.com/css/css_border.asp) - borbas no css3
+ - [CSS margins](https://www.w3schools.com/css/css_margin.asp) - definções de margens depois da borda
+ - [CSS padding](https://www.w3schools.com/css/css_padding.asp) - preenchimento antes da borda
+ - [CSS box model] (https://www.w3schools.com/css/css_boxmodel.asp)
+ - [CSS outline](https://www.w3schools.com/css/css_outline.asp) - destaque após as bordas
+ - [CSS text](https://www.w3schools.com/css/css_text.asp) - estilação de textos, fontes, cores, tamanho etc...
+ - [CSS font](https://www.w3schools.com/css/css_font.asp) - estilização da fonte, familia, peso, estilo etc...
+ - [CSS position](https://w3schools.com/css/css_positioning.asp) - posicionamento do contéudo
+ - [CSS overflow](https://www.w3schools.com/css/css_overflow.asp) - quando o conteúdo é maior que o container, esconder, scrolar etc...
+ - [CSS combinators](https://www.w3schools.com/css/css_combinators.asp)
+ - [CSS pseudo classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+ - [CSS pseudo element](https://www.w3schools.com/css/css_pseudo_elements.asp)
+ 
+## Implementar fluxo de programa
+
+ - [JS this](https://www.w3schools.com/js/js_this.asp) - uso da palavra reservada THIS em seu escopo
+ - [JS events](https://www.w3schools.com/js/js_events.asp) - eventos que o DOM dispara

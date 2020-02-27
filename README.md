@@ -41,3 +41,20 @@ Estudos para o exame 70480
 
  - [JS this](https://www.w3schools.com/js/js_this.asp) - uso da palavra reservada THIS em seu escopo
  - [JS events](https://www.w3schools.com/js/js_events.asp) - eventos que o DOM dispara
+ - [JS conditions](https://www.w3schools.com/js/js_if_else.asp) - controles de condições if,elseif,else etc...
+ - [JS switch](https://www.w3schools.com/js/js_switch.asp)
+ - [JS for](https://www.w3schools.com/js/js_loop_for.asp)
+ - [JS while](https://www.w3schools.com/js/js_loop_while.asp)
+ - [JS try-catch](https://www.w3schools.com/js/js_errors.asp)
+ - [JS ajax](https://www.w3schools.com/js/js_ajax_intro.asp)
+ - [JS websocket](https://developer.mozilla.org/pt-BR/docs/Web/API/WebSocket)
+ 
+## Acessar e proteger dados
+
+ - [JS XMLHttpRequest](https://www.w3schools.com/js/js_ajax_http.asp)
+ - [JQUERY selectors](https://www.w3schools.com/js/js_jquery_selectors.asp) - seletores da lib jquery
+
+## Usar CSS3 em aplicativos
+
+ - [CSS](https://www.w3schools.com/js/js_jquery_selectors.asp)
+ - [CSS web fonts](https://www.w3schools.com/css/css3_fonts.asp)

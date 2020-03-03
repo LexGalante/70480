@@ -22,6 +22,7 @@ Estudos para o exame 70480
  - [HTML TAG - svg](https://www.w3schools.com/html/html5_svg.asp) - xml para construção de elementos 2D
  - [HTML API geolocation](https://www.w3schools.com/html/html5_geolocation.asp) - api para obter localização do usuário 
  - [HTML API canvas](https://www.w3schools.com/html/html5_canvas.asp) - api para construção de gráficos
+ - [HTML API storage](https://www.w3schools.com/html/html5_webstorage.asp) - tipos de storages de browsers modernos
  - [CSS selectors](https://www.w3schools.com/css/css_selectors.asp) - seletores do css3
  - [CSS flex-box](https://origamid.com/projetos/flexbox-guia-completo/) - api flex-box css
  - [CSS backgrounds](https://www.w3schools.com/css/css_background.asp)- estilação de fundos no css3

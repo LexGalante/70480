@@ -47,9 +47,11 @@ Estudos para o exame 70480
  - [JS switch](https://www.w3schools.com/js/js_switch.asp)
  - [JS for](https://www.w3schools.com/js/js_loop_for.asp)
  - [JS while](https://www.w3schools.com/js/js_loop_while.asp)
- - [JS try-catch](https://www.w3schools.com/js/js_errors.asp)
- - [JS ajax](https://www.w3schools.com/js/js_ajax_intro.asp)
- - [JS websocket](https://developer.mozilla.org/pt-BR/docs/Web/API/WebSocket)
+ - [JS try-catch](https://www.w3schools.com/js/js_errors.asp) - tratamento de erro
+ - [JS ajax](https://www.w3schools.com/js/js_ajax_intro.asp) - XmlHttpRequest
+ - [JS websocket](https://developer.mozilla.org/pt-BR/docs/Web/API/WebSocket) - implementação do protocolo ws
+ - [JS promisse](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise) - assincronia
+ - [JS prototype](https://www.w3schools.com/js/js_object_prototypes.asp)
  
 ## Acessar e proteger dados
 
